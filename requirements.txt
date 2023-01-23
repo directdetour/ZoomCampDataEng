@@ -1,0 +1,5 @@
+pgcli
+docker-compose
+pandas
+sqlalchemy
+psycopg2-binary
