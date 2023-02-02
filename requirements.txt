@@ -3,3 +3,9 @@ docker-compose
 pandas
 sqlalchemy
 psycopg2-binary
+prefect==2.7.7
+prefect-sqlalchemy==0.2.2
+prefect-gcp[cloud_storage]==0.2.4
+protobuf==4.21.11
+pyarrow==10.0.1
+pandas-gbq==0.18.1
