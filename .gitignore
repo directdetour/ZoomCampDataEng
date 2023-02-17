@@ -15,3 +15,6 @@ module2/flows/02_gcp/__pycache__
 module2/gcspull
 module3/tmp
 module3/mod3_homework_answers.sql
+module4/tmp
+module4/*.csv.gz
+module4/*.parquet
