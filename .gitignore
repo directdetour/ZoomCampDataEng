@@ -18,3 +18,6 @@ module3/mod3_homework_answers.sql
 module4/tmp
 module4/*.csv.gz
 module4/*.parquet
+module5/fhvhv/*
+module5/fhvhv*
+module5/zones*
