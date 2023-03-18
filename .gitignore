@@ -21,3 +21,7 @@ module4/*.parquet
 module5/fhvhv/*
 module5/fhvhv*
 module5/zones*
+module6/resources/*
+module6/streams-example/*
+module6/data/fhv_tripdata_2019-01.csv.gz
+module6/data/green_tripdata_2019-01.csv.gz
